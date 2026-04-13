@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Syed%20Arifuddin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Data%20Science&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Syed%20Arifuddin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%7C%20Data%20Science%20%7C%20B.Tech%20AIDS%202026&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+that+empowers+communities+%F0%9F%A4%96;RAG+%7C+Vector+DBs+%7C+Multi-modal+AI+%F0%9F%A7%A0;Full+Stack+%7C+Next.js+%7C+Python+%F0%9F%9A%80;B.Tech+AI+%26+Data+Science+%40+MCET+%F0%9F%8E%93;Open+to+exciting+opportunities+%F0%9F%91%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+that+empowers+communities+%F0%9F%A4%96;RAG+%7C+Vector+DBs+%7C+Multi-modal+AI+%F0%9F%A7%A0;Python+%7C+Next.js+%7C+AI+Developer+%F0%9F%9A%80;B.Tech+AI+%26+Data+Science+%40+MCET+%F0%9F%8E%93;Open+to+exciting+opportunities+%F0%9F%91%80" alt="Typing SVG" />
 
 <br/>
 
@@ -20,16 +20,16 @@
 ```python
 class SyedArifuddin:
     name       = "Syed Arifuddin"
-    role       = "AI Developer & Full Stack Engineer"
+    role       = "AI Developer & Data Science"
     education  = "B.Tech AI & Data Science @ MCET, Hyderabad (2022–2026) | CGPA: 7.5"
     location   = "Hyderabad, Telangana, India"
     email      = "syedarif3126@gmail.com"
 
     interests  = ["RAG Architectures", "Multi-modal AI", "Vector Databases",
-                  "Full Stack Web Dev", "Open Source", "Cultural Tech"]
+                  "AI Applications", "Open Source", "Cultural Tech"]
 
     currently  = "Building AI solutions that solve real-world problems"
-    looking_for = "Internships & entry-level roles in AI/ML & Full Stack"
+    looking_for = "Internships & entry-level roles in AI/ML & Data Science"
 
     fun_fact   = "I built an AI platform to preserve Telugu cultural heritage 🏛️"
 ```
@@ -132,46 +132,6 @@ class SyedArifuddin:
 ## 📈 Contribution Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SyedArifuddin&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=6366F1&point=FF6B35)](https://github.com/SyedArifuddin)
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedArifuddin/SyedArifuddin/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedArifuddin/SyedArifuddin/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/SyedArifuddin/SyedArifuddin/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
-> ⚙️ **To activate the snake:** In your `SyedArifuddin` repo, create the file `.github/workflows/snake.yml` with the content below, then go to **Actions → Run workflow** once to generate it.
->
-> ```yaml
-> name: Generate snake animation
-> on:
->   schedule:
->     - cron: "0 */12 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
