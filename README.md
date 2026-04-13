@@ -8,7 +8,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-SyedArifuddin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SyedArifuddin)
 [![Email](https://img.shields.io/badge/Email-syedarif3126%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:syedarif3126@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SyedArifuddin)
 [![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-34D399?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Hyderabad,India)
 ![Profile Views](https://komarev.com/ghpvc/?username=SyedArifuddin&color=A78BFA&style=flat-square&label=Profile+Views)
 
@@ -56,14 +55,11 @@ class SyedArifuddin:
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### AI / ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Architectures-6366F1?style=for-the-badge&logo=semanticweb&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
@@ -72,8 +68,6 @@ class SyedArifuddin:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![AstraDB](https://img.shields.io/badge/AstraDB_(Cassandra)-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 ### Cloud & Tools
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -155,7 +149,6 @@ class SyedArifuddin:
 
 [![Email](https://img.shields.io/badge/syedarif3126%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedarif3126@gmail.com)
 [![GitHub](https://img.shields.io/badge/SyedArifuddin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedArifuddin)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SyedArifuddin)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
