@@ -97,12 +97,12 @@ class SyedArifuddin:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SyedArifuddin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedArifuddin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SyedArifuddin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedArifuddin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SyedArifuddin&theme=tokyonight&hide_border=true&stroke=A78BFA&ring=A78BFA&fire=FF6B35&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=SyedArifuddin&theme=tokyonight&hide_border=true&stroke=A78BFA&ring=A78BFA&fire=FF6B35&currStreakLabel=A78BFA" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -110,7 +110,7 @@ class SyedArifuddin:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyedArifuddin&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=SyedArifuddin&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
@@ -138,8 +138,40 @@ class SyedArifuddin:
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SyedArifuddin/SyedArifuddin/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedArifuddin/SyedArifuddin/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedArifuddin/SyedArifuddin/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/SyedArifuddin/SyedArifuddin/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
+
+> ⚙️ **To activate the snake:** In your `SyedArifuddin` repo, create the file `.github/workflows/snake.yml` with the content below, then go to **Actions → Run workflow** once to generate it.
+>
+> ```yaml
+> name: Generate snake animation
+> on:
+>   schedule:
+>     - cron: "0 */12 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 ---
 
