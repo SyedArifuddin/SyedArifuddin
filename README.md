@@ -97,12 +97,12 @@ class SyedArifuddin:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SyedArifuddin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedArifuddin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SyedArifuddin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedArifuddin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedArifuddin&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B35&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=SyedArifuddin&theme=tokyonight&hide_border=true&stroke=A78BFA&ring=A78BFA&fire=FF6B35&currStreakLabel=A78BFA" alt="GitHub Streak"/>
 </div>
 
 ---
