@@ -89,6 +89,7 @@ class SyedArifuddin:
 | **[AI-Driven Career Guidance System](https://github.com/SyedArifuddin)** | Next.js, Prisma ORM, PostgreSQL, Tailwind | Full-stack web app with AI-generated career recommendations |
 | **[Vector DB Resume Search](https://github.com/SyedArifuddin)** | Python, ChromaDB, LangChain, OpenAI | Semantic vector search over unstructured resume documents |
 | **[PDF Query System](https://github.com/SyedArifuddin)** | Python, AstraDB, LangChain | Semantic Q&A over PDFs using distributed vector storage |
+| **[Land Registration](https://github.com/SyedArifuddin/Land_Registration)** | Python | Blockchain-based land registration system for secure and transparent property records |
 
 </div>
 
