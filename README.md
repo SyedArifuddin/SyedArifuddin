@@ -1,82 +1,93 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/render?type=kodinger&color=0D1117&height=250&section=header&text=SYED%20ARIFUDDIN&fontSize=80&fontColor=36BCF7&animation=twinkling&desc=AI%20Developer%20Intern%20|%20RAG%20Specialist&descSize=20&descAlignY=65">
-  <img src="https://capsule-render.vercel.app/render?type=kodinger&color=ffffff&height=250&section=header&text=SYED%20ARIFUDDIN&fontSize=80&fontColor=36BCF7&animation=twinkling&desc=AI%20Developer%20Intern%20|%20RAG%20Specialist&descSize=20&descAlignY=65" alt="Header" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=SYED+ARIFUDDIN" alt="Name" />
 
-<p align="center">
+<h2>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Next-Gen+AI+Pipelines;Fine-tuning+LLMs+%40+Viswam.AI;Specializing+in+Agentic+RAG;Full-Stack+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=AI+Developer+Intern;RAG+%26+LLM+Specialist;B.Tech+AI+%26+Data+Science;Full-Stack+Web+Developer" alt="Typing SVG" />
   </a>
-</p>
+</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Hyderabad-orange?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intern-Viswam.AI-green?style=for-the-badge&logo=python&logoColor=white" />
+  <a href="mailto:syedarif3126@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/SyedArifuddin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-FF9900?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
+---
+
 </div>
 
----
-
-## ⚡ Quick Specs
-- 🤖 **Current Focus:** Agentic RAG Architectures & Multi-modal Data Pipelines.
-- 🎓 **Education:** Final year Engineering Student at Methodist College of Engineering (AIDS).
-- 🏆 **Top Project:** *Liora* - A Telugu Cultural Heritage AI platform.
-- 💼 **Experience:** AI Developer Intern at **Viswam.AI** (Winter 2024 - Present).
+## 💫 Professional Overview
+- [cite_start]🎓 **Education:** Final year **B.Tech in AI & Data Science** at Methodist College of Engineering and Technology (CGPA: 7.5).
+- [cite_start]🤖 **Current Role:** **AI Developer Intern** at **Viswam.AI**, focused on fine-tuning AI/ML models and building end-to-end Python pipelines[cite: 9, 10, 18].
+- [cite_start]💡 **Specialization:** Expert in **Agentic RAG Architectures**, **Vector Embeddings**, and **Multi-modal AI**[cite: 24, 42].
+- [cite_start]🛠️ **Experience:** Intensive 4-week internship involving **DevOps practices**, **REST APIs**, and **GCP-based workflows**[cite: 17, 19].
 
 ---
 
-## 🚀 Tech Radar
+## 🛠️ Technical Arsenal
 
-| **Category** | **Tech Stack** |
-| :--- | :--- |
-| **AI / ML** | `LangChain` `OpenAI` `PyTorch` `RAG` `Fine-tuning` |
-| **Frontend** | `Next.js` `React.js` `Tailwind CSS` `Streamlit` |
-| **Backend** | `Flask` `Node.js` `REST APIs` `Prisma` |
-| **Database** | `PostgreSQL` `ChromaDB` `AstraDB` `MySQL` |
-
----
-
-## 💎 Project Spotlight
-
-### 🧬 [Liora](https://github.com/SyedArifuddin) - Telugu Cultural AI
-> An Agentic RAG architecture that preserves rural heritage using multi-modal data retrieval (Text, Image, Video).
-
-### 🔗 [Blockchain Land Registry](https://github.com/SyedArifuddin)
-> A decentralized system for secure land records utilizing cryptographic hashing and smart contracts.
-
-### 📄 [Persistent Resume Search](https://github.com/SyedArifuddin)
-> Vector-based semantic search system built with LangChain and ChromaDB for high-accuracy document querying.
-
----
-
-## 📊 Analytics & Impact
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedArifuddin&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedArifuddin&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedArifuddin&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-profile-trophy.vercel.app/?username=SyedArifuddin&theme=tokyonight&no-bg=true&margin-w=15" height="180" />
-</div>
-
----
-
-## 📫 Let's Connect
+### 🧠 Artificial Intelligence & ML
 <p align="left">
-  <a href="mailto:syedarif3126@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/SyedArifuddin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model_Fine--tuning-FF6F61?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_Embeddings-00CC99?style=flat-square" />
 </p>
+
+### 💻 Full-Stack Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AstraDB-000000?style=flat-square&logo=apache-cassandra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏛️ Liora | [cite_start]Telugu Cultural Heritage AI [cite: 21, 23]
+> **Python, Streamlit, Multi-modal AI, RAG**
+> [cite_start]Developed a multi-modal platform for rural communities to contribute and retrieve cultural data (Text/Image/Video) using an **Agentic RAG architecture**[cite: 23, 24].
+
+### [cite_start]📄 Persistent Resume Search System [cite: 26, 27]
+> **LangChain, ChromaDB, OpenAI**
+> [cite_start]Built a semantic vector embedding pipeline for structured, SQL-like querying over unstructured document data[cite: 27].
+
+### [cite_start]🎓 AI-Driven Career Guidance [cite: 32]
+> **Next.js, Prisma, PostgreSQL**
+> [cite_start]Built a full-stack application using Prisma ORM to deliver AI-generated career recommendations based on user interaction data[cite: 32, 33].
+
+### [cite_start]📂 PDF Query System [cite: 34, 38]
+> **AstraDB, LangChain, Cassandra**
+> [cite_start]Engineered scalable data ingestion pipelines for semantic search and Q&A over complex PDF documents[cite: 38, 39].
+
+---
+
+## 📜 Certifications & Achievements
+- [cite_start]🏅 **Oracle Cloud Infrastructure** 2025 Certified AI Foundations Associate[cite: 46].
+- [cite_start]📊 **IIT Guwahati** Summer Analytics Participant[cite: 47, 48].
+- [cite_start]🛠️ **Workshop:** LangChain and RAG at Lords Institute of Engineering and Technology[cite: 49, 50].
+- [cite_start]🏆 **Hackathon Participant:** ELECTROVENZA by M.JCET[cite: 53, 54].
+
+---
+
+## 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedArifuddin&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedArifuddin&theme=tokyonight&hide_border=true" height="170" />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SyedArifuddin&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" />
