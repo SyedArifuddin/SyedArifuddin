@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Syed%20Arifuddin&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Header" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=36BCF7&height=200&section=header&text=Syed%20Arifuddin&fontSize=70&animation=fadeIn&fontAlignY=38" alt="Header" />
 
 <h1>
   <a href="https://git.io/typing-svg">
@@ -19,9 +19,9 @@
 
 ## 💫 About Me
 - [cite_start]🎓 **B.Tech in AI & Data Science** student at Methodist College of Engineering and Technology[cite: 6].
-- [cite_start]🤖 **AI Developer Intern** at **Viswam.AI**, specializing in model fine-tuning and end-to-end Python pipelines[cite: 9, 10, 18].
-- [cite_start]🛠️ Deeply interested in **RAG Architectures**, **Vector Databases**, and **Multi-modal AI**[cite: 23, 24, 42].
-- [cite_start]✍️ I enjoy building tools that bridge the gap between complex AI models and user-friendly web interfaces[cite: 32, 33].
+- [cite_start]🤖 **AI Developer Intern** at **Viswam.AI**, focusing on model fine-tuning and Python-based application deployment[cite: 9, 10, 19].
+- [cite_start]🛠️ Deeply interested in **RAG Architectures**, **Vector Databases**, and **Multi-modal AI**[cite: 23, 24, 26].
+- 🌐 Experienced in building full-stack applications using **Next.js, Flask, and React**.
 
 ---
 
@@ -48,20 +48,16 @@
 ## 🚀 Key Projects
 
 ### 🏛️ Liora | Telugu Cultural Heritage AI
-> **Python, Streamlit, Multi-modal AI, RAG**
-> [cite_start]Built a platform enabling rural communities to contribute and retrieve Telugu cultural data across text, image, and video using **Agentic RAG architecture**[cite: 23, 24].
+> [cite_start]**Python, Streamlit, Multi-modal AI, RAG** [cite: 23]
+> [cite_start]Developed an Agentic RAG architecture enabling rural communities to contribute and retrieve cultural data across text, image, and video modalities[cite: 23, 24].
 
 ### 📄 Persistent Resume Search & Analysis
-> **LangChain, ChromaDB, OpenAI**
-> [cite_start]Designed a semantic vector embedding system for structured SQL-like querying over unstructured documents[cite: 26, 27].
+> [cite_start]**LangChain, ChromaDB, OpenAI** [cite: 26]
+> [cite_start]Designed semantic vector embedding pipelines in Python for structured search over unstructured document data[cite: 27, 29].
 
 ### 🔗 Blockchain Land Registration
 > **Solidity, Flask, React**
 > A decentralized system for secure land records utilizing cryptographic hashing and smart contracts.
-
-### 🎓 AI Career Guidance System
-> **Next.js, Prisma, PostgreSQL**
-> [cite_start]Developed a full-stack application providing AI-generated career recommendations based on user input[cite: 32, 33].
 
 ---
 
@@ -74,9 +70,9 @@
 ---
 
 ## 📜 Certifications & Achievements
-- [cite_start]🏅 **Oracle Cloud Infrastructure** 2025 Certified AI Foundations Associate[cite: 46].
-- [cite_start]📊 **IIT Guwahati** Summer Analytics Participant[cite: 47, 48].
-- [cite_start]🛠️ **LangChain & RAG Workshop** - Lords Institute of Engineering and Technology[cite: 49, 50].
+- [cite_start]🏅 **OCI 2025 Certified AI Foundations Associate**[cite: 46].
+- [cite_start]📊 **IIT Guwahati** Summer Analytics[cite: 47, 48].
+- [cite_start]🛠️ **LangChain and RAG Workshop** - Lords Institute of Engineering and Technology[cite: 49, 50].
 
 ---
 
